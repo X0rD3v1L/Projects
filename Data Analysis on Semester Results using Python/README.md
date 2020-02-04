@@ -111,7 +111,7 @@ plt.show()
 ```
 <br>
 
-![All_Students_Graph](/Graphs/All_Students_Graph.png)
+![All_Students_Graph](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/All_Students_Graph.png)
 
 <br>
 
