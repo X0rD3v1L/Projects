@@ -13,7 +13,7 @@ My Role : Programmer
 
 Here are the files attached :
 
-main.py
+<a href="https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/scripts/main.py">main.py</a>
 
 ```python3
 
@@ -73,7 +73,7 @@ os.system("xdg-open Results.xlsx")
 ```
 With main.py all the results were extracted and stored in a file named Results.xlsx. Results.xlsx contains grades subjects wise and Avg.GPA.This file gave us a major insight to the data inside and now we plotted various graphs on different criterias from this data using matplotlib library in python.
 
-All_Students_Graph.py
+<a href="https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/scripts/All_Students_Graph.py">All_Students_Graph.py</a>
 
 ```python3
 import pandas as pd
@@ -115,7 +115,7 @@ plt.show()
 
 <br>
 
-All_Classes_GPA_Wise.py
+<a href="https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/scripts/All_Classes_GPA_Wise.py">All_Classes_GPA_Wise.py</a>
 
 ```python3
 from matplotlib import pyplot as plt
@@ -163,7 +163,7 @@ plt.show()
 
 <br>
 
-Class_Wise_GPA.py
+<a href="https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/scripts/Class_Wise_GPA.py">Class_Wise_GPA.py</a>
 
 ```python3
 from matplotlib import pyplot as plt
