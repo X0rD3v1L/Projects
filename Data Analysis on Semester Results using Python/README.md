@@ -159,7 +159,7 @@ plt.show()
 ```
 <br>
 
-![All_Classes_GPA_Wise](/Graphs/All_Classes_GPA_Wise.png)
+![All_Classes_GPA_Wise](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/All_Classes_GPA_Wise.png)
 
 <br>
 
@@ -203,24 +203,24 @@ for file in files:
 	plt.savefig(file[:5] + ".png")
 	plt.show()
 ```
-![CSE-1](/Graphs/CSE-1.png)
+![CSE-1](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/CSE-1.png)
 <br>
-![CSE-2](/Graphs/CSE-2.png)
-<br>
-<br>
-![CSE-3](/Graphs/CSE-3.png)
+![CSE-2](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/CSE-2.png)
 <br>
 <br>
-![CSE-4](/Graphs/CSE-4.png)
+![CSE-3](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/CSE-3.png)
 <br>
 <br>
-![CSE-5](/Graphs/CSE-5.png)
+![CSE-4](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/CSE-4.png)
 <br>
 <br>
-![CSE-6](/Graphs/CSE-6.png)
+![CSE-5](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/CSE-5.png)
 <br>
 <br>
-![CSE-7](/Graphs/CSE-7.png)
+![CSE-6](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/CSE-6.png)
+<br>
+<br>
+![CSE-7](https://github.com/X0rD3v1L/Projects/blob/master/Data%20Analysis%20on%20Semester%20Results%20using%20Python/Graphs/CSE-7.png)
 <br>
 
 ## Cheers,Bye!
