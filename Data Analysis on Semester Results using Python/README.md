@@ -1,7 +1,6 @@
 # Data Analysis on Semester Results using Python
 
-## How it started?
-Hello World,
+## What's this about?
 This a Simple Data Analysis Project which we did in our 2nd year of B.Tech as a part-time and self usage project just to improve our skills.
 We scraped the results of our department students (who are over 400 in count and we have 5 subjects and 4 Labs) from the results webpage using requests module and scraped the data using BeautifulSoup from bs4 module and plotted the graphs for the data using matplotlib library in python. We analyzed this data in various ways like section-wise,gender-wise,subject-wise.This simple project helped us learn on how to analyze huge data and moreover the patterns which we observed in the data were quite interesting.
 
