@@ -1,4 +1,4 @@
-# Data Analysis on Semester Results using Python.
+# Data Analysis on Semester Results using Python
 
 ## How it started?
 Hello World,
