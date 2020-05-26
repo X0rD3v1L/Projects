@@ -4,7 +4,7 @@ subjects = ["ID","NAME","DAA","OOPS","OS","DBMS","IRB","OOPS_LAB","OS_LAB","DBMS
 results_dic = {"Ex":10,"A":9,"B":8,"C":7,"D":6,"WH":0,"AB":0,"R":0}
 
 def get_Result(id):
-	r = requests.post("https://examcell.rguktn.ac.in/results/201920s1-regular/getResult.php", data = {"SID":id})
+	r = requests.post("url_here", data = {"SID":id})
 	soup = bs(r.text,"html.parser")
 	tr = soup.find('table').findAll('tr')
 	student_result = [id,name_dic[id]]
